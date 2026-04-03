@@ -1,0 +1,19 @@
+# Tasks
+- [x] Task 1: 全局样式与基础变量升级
+  - [x] SubTask 1.1: 替换全局字体栈为类苹果系统字体（SF Pro 等），调整全局背景色为极简浅灰（`#fbfbfd` 级别）。
+  - [x] SubTask 1.2: 更新全局滚动条样式，使其更加隐蔽和精致。
+- [x] Task 2: 左侧源卡片池 (Source Pool) 重构
+  - [x] SubTask 2.1: 优化侧边栏头部标题、副标题与筛选器标签（Pill 形状，选中态高亮）。
+  - [x] SubTask 2.2: 重构成果卡片（Card）的边框、阴影、圆角（使用更大的平滑圆角）和内部标签（Tag）的色彩对比度，使其更具呼吸感。
+- [x] Task 3: 右侧申报矩阵工作台 (Matrix Workspace) 视觉提升
+  - [x] SubTask 3.1: 优化工作台背景与间距，提升 Sticky Header 的毛玻璃模糊效果与下边框细腻度。
+  - [x] SubTask 3.2: 调整 A1/A2/A3 矩阵容器的阴影与圆角，美化容量计数器（Capacity Counter）。
+  - [x] SubTask 3.3: 优化拖拽放置区（Drop Zone）的虚线边框、占位符图标及文字的色彩层级。
+- [x] Task 4: 拖拽状态机视觉反馈优化
+  - [x] SubTask 4.1: 调整拖拽进行中（Dragging）卡片的缩放与高级阴影效果。
+  - [x] SubTask 4.2: 优化合法放置（合规路径）的绿色高亮引导色彩。
+  - [x] SubTask 4.3: 优化非法放置（阻断路径）的半透明毛玻璃遮罩及红色警示。
+- [x] Task 5: 底部智能控制台 (Smart Dock) 高级感重塑
+  - [x] SubTask 5.1: 重塑 Slim Status Bar 的悬浮质感，优化进度条样式与状态指示灯。
+  - [x] SubTask 5.2: 美化展开后的面板（硬指标反馈区与 AI 唤醒按钮），使用更柔和的警示色与品牌色。
+  - [x] SubTask 5.3: 优化 AI 流式输出区域的骨架屏动画与打字机文本排版。
